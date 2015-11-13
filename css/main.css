@@ -1,0 +1,7 @@
+#nav a{
+    text-decoration:none;
+    color:gray;
+    padding: 0px 20px 0px 0px;
+    /* or */
+    padding-right:20px;
+}
